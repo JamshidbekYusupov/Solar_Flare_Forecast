@@ -1,0 +1,115 @@
+2026-02-06 20:40:41,311-INFO-Pipeline Building and Hyperparametr turning have started
+2026-02-06 20:48:04,506-INFO-Pipeline Building and Hyperparametr turning have started
+2026-02-06 20:48:04,507-INFO-Numerical pipeline is DONE
+2026-02-06 20:48:04,508-INFO-Categorical pipeline is DONE
+2026-02-06 20:48:04,508-INFO-Column Transforming is done
+2026-02-06 20:48:04,508-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-06 20:48:04,508-INFO-HYPERPARAMETR TUNING STARTED
+2026-02-06 20:48:04,508-INFO-Numerical pipeline is DONE
+2026-02-06 20:48:04,508-INFO-Categorical pipeline is DONE
+2026-02-06 20:48:04,508-INFO-Column Transforming is done
+2026-02-06 20:48:04,509-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-06 20:50:09,736-INFO-Hyperparametr tuning is DONE
+2026-02-06 20:50:09,897-INFO-Fittig model is done
+2026-02-06 20:50:09,935-INFO-Prediction is done with model
+2026-02-06 20:50:09,940-INFO-Metrics are calculated SUCCESSFFULLY
+2026-02-06 20:50:09,942-INFO-Metrics are savded at C:\Solar-Flare-Forecast\Metrics
+2026-02-06 20:50:09,944-INFO-Numerical pipeline is DONE
+2026-02-06 20:50:09,944-INFO-Categorical pipeline is DONE
+2026-02-06 20:50:09,944-INFO-Column Transforming is done
+2026-02-06 20:50:09,944-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-06 20:50:09,944-INFO-HYPERPARAMETR TUNING STARTED
+2026-02-06 20:50:09,944-INFO-Numerical pipeline is DONE
+2026-02-06 20:50:09,945-INFO-Categorical pipeline is DONE
+2026-02-06 20:50:09,945-INFO-Column Transforming is done
+2026-02-06 20:50:09,945-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-06 20:50:15,198-INFO-Hyperparametr tuning is DONE
+2026-02-06 20:50:15,203-INFO-Fittig model is done
+2026-02-06 20:50:15,210-INFO-Prediction is done with model
+2026-02-06 20:50:15,215-INFO-Metrics are calculated SUCCESSFFULLY
+2026-02-06 20:50:15,218-INFO-Metrics are savded at C:\Solar-Flare-Forecast\Metrics
+2026-02-06 20:50:15,220-INFO-Numerical pipeline is DONE
+2026-02-06 20:50:15,220-INFO-Categorical pipeline is DONE
+2026-02-06 20:50:15,220-INFO-Column Transforming is done
+2026-02-06 20:50:15,220-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-06 20:50:15,220-INFO-HYPERPARAMETR TUNING STARTED
+2026-02-06 20:50:15,221-INFO-Numerical pipeline is DONE
+2026-02-06 20:50:15,221-INFO-Categorical pipeline is DONE
+2026-02-06 20:50:15,221-INFO-Column Transforming is done
+2026-02-06 20:50:15,221-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-06 20:53:33,452-INFO-Hyperparametr tuning is DONE
+2026-02-06 20:53:34,501-INFO-Fittig model is done
+2026-02-06 20:53:34,536-INFO-Prediction is done with model
+2026-02-06 20:53:34,547-INFO-Metrics are calculated SUCCESSFFULLY
+2026-02-06 20:53:34,549-INFO-Metrics are savded at C:\Solar-Flare-Forecast\Metrics
+2026-02-06 20:53:34,551-INFO-Numerical pipeline is DONE
+2026-02-06 20:53:34,552-INFO-Categorical pipeline is DONE
+2026-02-06 20:53:34,552-INFO-Column Transforming is done
+2026-02-06 20:53:34,552-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-06 20:53:34,552-INFO-HYPERPARAMETR TUNING STARTED
+2026-02-06 20:53:34,553-INFO-Numerical pipeline is DONE
+2026-02-06 20:53:34,553-INFO-Categorical pipeline is DONE
+2026-02-06 20:53:34,553-INFO-Column Transforming is done
+2026-02-06 20:53:34,553-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-06 21:05:02,207-INFO-Hyperparametr tuning is DONE
+2026-02-06 21:05:02,408-INFO-Fittig model is done
+2026-02-06 21:05:02,465-INFO-Prediction is done with model
+2026-02-06 21:05:02,473-INFO-Metrics are calculated SUCCESSFFULLY
+2026-02-06 21:05:02,476-INFO-Metrics are savded at C:\Solar-Flare-Forecast\Metrics
+2026-02-07 03:33:16,248-INFO-Pipeline Building and Hyperparametr turning have started
+2026-02-07 03:34:17,184-INFO-Pipeline Building and Hyperparametr turning have started
+2026-02-07 03:34:17,186-INFO-Numerical pipeline is DONE
+2026-02-07 03:34:17,186-INFO-Categorical pipeline is DONE
+2026-02-07 03:34:17,186-INFO-Column Transforming is done
+2026-02-07 03:34:17,186-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-07 03:34:17,186-INFO-HYPERPARAMETR TUNING STARTED
+2026-02-07 03:34:17,186-INFO-Numerical pipeline is DONE
+2026-02-07 03:34:17,187-INFO-Categorical pipeline is DONE
+2026-02-07 03:34:17,187-INFO-Column Transforming is done
+2026-02-07 03:34:17,187-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-07 03:34:17,190-ERROR-ERROR while saving preprocessed data: 'numpy.ndarray' object has no attribute 'to_csv'
+2026-02-07 03:34:17,191-ERROR-ERROR while tuning:'numpy.ndarray' object has no attribute 'to_csv'
+2026-02-07 03:38:12,836-INFO-Pipeline Building and Hyperparametr turning have started
+2026-02-07 03:38:22,082-INFO-Pipeline Building and Hyperparametr turning have started
+2026-02-07 03:38:22,084-INFO-Numerical pipeline is DONE
+2026-02-07 03:38:22,084-INFO-Categorical pipeline is DONE
+2026-02-07 03:38:22,084-INFO-Column Transforming is done
+2026-02-07 03:38:22,084-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-07 03:38:22,084-INFO-HYPERPARAMETR TUNING STARTED
+2026-02-07 03:38:22,084-INFO-Numerical pipeline is DONE
+2026-02-07 03:38:22,084-INFO-Categorical pipeline is DONE
+2026-02-07 03:38:22,084-INFO-Column Transforming is done
+2026-02-07 03:38:22,084-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-07 03:38:22,088-ERROR-ERROR while saving preprocessed data: 'NoneType' object has no attribute 'index'
+2026-02-07 03:38:22,088-ERROR-ERROR while tuning:'NoneType' object has no attribute 'index'
+2026-02-07 03:40:54,092-INFO-Pipeline Building and Hyperparametr turning have started
+2026-02-07 03:41:00,344-INFO-Pipeline Building and Hyperparametr turning have started
+2026-02-07 03:41:00,346-INFO-Numerical pipeline is DONE
+2026-02-07 03:41:00,346-INFO-Categorical pipeline is DONE
+2026-02-07 03:41:00,346-INFO-Column Transforming is done
+2026-02-07 03:41:00,346-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-07 03:41:00,346-INFO-HYPERPARAMETR TUNING STARTED
+2026-02-07 03:41:00,346-INFO-Numerical pipeline is DONE
+2026-02-07 03:41:00,347-INFO-Categorical pipeline is DONE
+2026-02-07 03:41:00,347-INFO-Column Transforming is done
+2026-02-07 03:41:00,347-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-07 03:41:00,350-ERROR-ERROR while saving preprocessed data: only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices
+2026-02-07 03:41:00,350-ERROR-ERROR while tuning:only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices
+2026-02-07 03:41:53,459-INFO-Pipeline Building and Hyperparametr turning have started
+2026-02-07 03:42:00,570-INFO-Pipeline Building and Hyperparametr turning have started
+2026-02-07 03:42:00,571-INFO-Numerical pipeline is DONE
+2026-02-07 03:42:00,571-INFO-Categorical pipeline is DONE
+2026-02-07 03:42:00,572-INFO-Column Transforming is done
+2026-02-07 03:42:00,572-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-07 03:42:00,572-INFO-HYPERPARAMETR TUNING STARTED
+2026-02-07 03:42:00,572-INFO-Numerical pipeline is DONE
+2026-02-07 03:42:00,572-INFO-Categorical pipeline is DONE
+2026-02-07 03:42:00,572-INFO-Column Transforming is done
+2026-02-07 03:42:00,572-INFO-PIPELINE building is DONE SUCCESSFULLY
+2026-02-07 03:42:00,584-INFO-Preprocessed data saved at C:\Solar-Flare-Forecast\Data\Preprocessed_data
+2026-02-07 03:44:11,978-INFO-Hyperparametr tuning is DONE
+2026-02-07 03:44:12,091-INFO-Fittig model is done
+2026-02-07 03:44:12,121-INFO-Prediction is done with model Random_Forest
+2026-02-07 03:44:12,127-INFO-Metrics are calculated SUCCESSFFULLY for Random_Forest
+2026-02-07 03:44:12,128-INFO-Metrics are savded at C:\Solar-Flare-Forecast\Metrics
+2026-02-07 04:17:45,288-INFO-Pipeline Building and Hyperparametr turning have started

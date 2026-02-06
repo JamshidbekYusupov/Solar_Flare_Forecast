@@ -1,0 +1,19 @@
+2026-02-06 19:54:12,273-INFO-Feature enginerring has started
+2026-02-06 20:15:48,240-INFO-Feature enginerring has started
+2026-02-06 20:15:57,352-INFO-Feature enginerring has started
+2026-02-06 20:15:57,360-INFO-Feature Engineering is DONE, added features:[region_activity, day_of_year, quarter, start_hour_cos, start_hour_sin , duration_min]
+2026-02-06 20:15:57,483-INFO-Feature selection if DONE with RandomForestClassifier()
+2026-02-06 20:15:57,485-INFO-Feature Transformation is done for skewed features: ['Region', 'region_activity']
+2026-02-06 20:15:57,489-INFO-Data is saved SUCCESSFULLY at:C:\Solar-Flare-Forecast\Data\Engineered_Data
+2026-02-07 04:27:17,350-INFO-Feature enginerring has started
+2026-02-07 04:27:26,806-INFO-Feature enginerring has started
+2026-02-07 04:27:26,812-INFO-Feature Engineering is DONE, added features:[region_activity, day_of_year, quarter, start_hour_cos, start_hour_sin , duration_min]
+2026-02-07 04:27:26,929-INFO-Feature selection if DONE with RandomForestClassifier()
+2026-02-07 04:27:26,931-INFO-Feature Transformation is done for skewed features: ['Class', 'Region', 'region_activity']
+2026-02-07 04:27:26,936-INFO-Data is saved SUCCESSFULLY at:C:\Solar-Flare-Forecast\Data\Engineered_Data
+2026-02-07 04:29:49,075-INFO-Feature enginerring has started
+2026-02-07 04:29:53,810-INFO-Feature enginerring has started
+2026-02-07 04:29:53,815-INFO-Feature Engineering is DONE, added features:[region_activity, day_of_year, quarter, start_hour_cos, start_hour_sin , duration_min]
+2026-02-07 04:29:53,932-INFO-Feature selection if DONE with RandomForestClassifier()
+2026-02-07 04:29:53,934-INFO-Feature Transformation is done for skewed features: ['Region', 'region_activity']
+2026-02-07 04:29:53,939-INFO-Data is saved SUCCESSFULLY at:C:\Solar-Flare-Forecast\Data\Engineered_Data
