@@ -68,7 +68,9 @@ SHAP summary plots
 
 SHAP waterfall plots
 
-## Error Analysis  ![alt text](image.png)
+## Error Analysis  
+
+![alt text](image.png)
 
 Model errors were analyzed using visualization techniques to:
 
